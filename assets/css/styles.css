@@ -60,7 +60,10 @@
 
 .hero-image {
   display: block;
-  max-width: 600px;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 300px;
   margin: 0 auto;
 }
 
